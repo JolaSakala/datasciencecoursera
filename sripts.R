@@ -26,4 +26,4 @@ for (file in fileslong){
 for (file in fileslong){
       if (!exists("fileslong[file]")){ next()
         } else {rm("fileslong[file]")}
-        
+}       
