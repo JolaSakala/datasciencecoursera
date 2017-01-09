@@ -3,6 +3,8 @@
 ######by Jolanta Sakalauskaite, 2017 January
 
 
+##Just run script _run_analysis.R_ and all magic will happen auomaticaly :)
+
 _**The purpose of this project**_: demonstrate your ability to collect, work with, and clean a data set. 
 
 _**The goal**_: prepare tidy data that can be used for later analysis. 
