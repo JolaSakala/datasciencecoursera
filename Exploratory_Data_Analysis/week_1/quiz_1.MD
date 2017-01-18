@@ -1,4 +1,4 @@
-# Week X Quiz
+# Week 1 Quiz
 
 ### Question 1
 Which of the following is a principle of analytic graphics?
